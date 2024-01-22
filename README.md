@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | JS Vikings
+* LAB | JS Vikings
 
 ![giphy](https://user-images.githubusercontent.com/76580/167318130-3f0e5e19-86bc-4278-aaab-a988febcea3f.gif)
 
@@ -28,7 +28,7 @@
 
 </details>
 
-## Introduction
+ # Introduction
 
 We have learned Object-oriented programming and how `class` and inheritance work in JavaScript. Now let's work with our Viking friends, applying the concepts we have just learned.
 
@@ -119,7 +119,7 @@ Modify the `Soldier` class and add 2 methods to it: `attack()`, and `receiveDama
 
 #### class
 
-- should receive **2 arguments** (health & strength)
+- should receive ! 2 arguments * (health & strength)
 - should receive the **`health` property** as its **1st argument**
 - should receive the **`strength` property** as its **2nd argument**
 
@@ -468,3 +468,4 @@ If the link shown is the same as the main Ironhack repository, you will need to 
 
 </details>
 
+ 
